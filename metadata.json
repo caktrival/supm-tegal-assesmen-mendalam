@@ -1,0 +1,8 @@
+{
+  "name": "SUPM TEGAL ASSESMEN MENDALAM",
+  "description": "Aplikasi Generator Perangkat Asesmen Pembelajaran SMK Berbasis AI untuk SUPM TEGAL dengan Kisi-Kisi, Naskah Soal, Kunci Jawaban Terpisah, dan Rubrik Penskoran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
